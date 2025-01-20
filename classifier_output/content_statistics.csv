@@ -1,0 +1,127 @@
+[LLM] Topic,[LLM] Sub-Topic,[LLM] Level,book,ebook,program,Total
+Arts,Culinary Arts,Advanced,1,6,0,7
+Arts,Culinary Arts,Beginner,238,139,0,377
+Arts,Culinary Arts,Intermediate,405,520,0,925
+Arts,Culture & Heritage,Advanced,6,13,0,19
+Arts,Culture & Heritage,Beginner,53,45,0,98
+Arts,Culture & Heritage,Intermediate,404,445,0,849
+Arts,Digital Arts,Advanced,1,3,0,4
+Arts,Digital Arts,Beginner,39,34,0,73
+Arts,Digital Arts,Intermediate,58,60,0,118
+Arts,Film & Television,Advanced,0,2,0,2
+Arts,Film & Television,Beginner,23,21,0,44
+Arts,Film & Television,Intermediate,53,100,0,153
+Arts,Handicraft,Advanced,0,5,0,5
+Arts,Handicraft,Beginner,172,151,0,323
+Arts,Handicraft,Intermediate,173,171,0,344
+Arts,Literary Arts,Advanced,19,18,0,37
+Arts,Literary Arts,Beginner,65,40,0,105
+Arts,Literary Arts,Intermediate,232,283,0,515
+Arts,Performing Arts,Advanced,5,1,0,6
+Arts,Performing Arts,Beginner,18,46,0,64
+Arts,Performing Arts,Intermediate,46,98,0,144
+Arts,Visual Arts,Advanced,2,6,0,8
+Arts,Visual Arts,Beginner,315,188,0,503
+Arts,Visual Arts,Intermediate,332,225,0,557
+Digital,Artificial Intelligence & Machine Learning,Advanced,11,18,0,29
+Digital,Artificial Intelligence & Machine Learning,Beginner,59,78,0,137
+Digital,Artificial Intelligence & Machine Learning,Intermediate,208,301,0,509
+Digital,Blockchain Technology,Advanced,1,3,0,4
+Digital,Blockchain Technology,Beginner,24,20,0,44
+Digital,Blockchain Technology,Intermediate,73,54,0,127
+Digital,Cloud Computing,Advanced,3,6,0,9
+Digital,Cloud Computing,Beginner,26,26,0,52
+Digital,Cloud Computing,Intermediate,77,131,0,208
+Digital,Cyber Security,Advanced,9,26,0,35
+Digital,Cyber Security,Beginner,24,26,0,50
+Digital,Cyber Security,Intermediate,63,137,0,200
+Digital,Data Science & Analytics,Advanced,8,13,0,21
+Digital,Data Science & Analytics,Beginner,71,65,0,136
+Digital,Data Science & Analytics,Intermediate,191,228,0,419
+Digital,Internet of Things,Advanced,2,2,0,4
+Digital,Internet of Things,Beginner,13,3,0,16
+Digital,Internet of Things,Intermediate,17,34,0,51
+Digital,Software Engineering,Advanced,10,21,0,31
+Digital,Software Engineering,Beginner,92,79,0,171
+Digital,Software Engineering,Intermediate,214,262,0,476
+Personal Development,Career Development,Advanced,2,21,0,23
+Personal Development,Career Development,Beginner,295,275,0,570
+Personal Development,Career Development,Intermediate,900,1270,0,2170
+Personal Development,Emotional Intelligence,Advanced,0,1,0,1
+Personal Development,Emotional Intelligence,Beginner,315,279,0,594
+Personal Development,Emotional Intelligence,Intermediate,698,1127,0,1825
+Personal Development,Finance & Investment,Advanced,25,55,0,80
+Personal Development,Finance & Investment,Beginner,289,253,0,542
+Personal Development,Finance & Investment,Intermediate,572,676,0,1248
+Personal Development,Self-Help,Advanced,0,2,0,2
+Personal Development,Self-Help,Beginner,1234,857,0,2091
+Personal Development,Self-Help,Intermediate,1256,1786,0,3042
+Personal Development,Time Management,Advanced,1,1,0,2
+Personal Development,Time Management,Beginner,137,127,0,264
+Personal Development,Time Management,Intermediate,151,214,0,365
+Science & Engineering,Astronomy & Space Exploration,Advanced,2,0,0,2
+Science & Engineering,Astronomy & Space Exploration,Beginner,38,8,0,46
+Science & Engineering,Astronomy & Space Exploration,Intermediate,35,41,0,76
+Science & Engineering,Biology & Medical Science,Advanced,5,1,0,6
+Science & Engineering,Biology & Medical Science,Beginner,108,40,0,148
+Science & Engineering,Biology & Medical Science,Intermediate,269,269,0,538
+Science & Engineering,Chemistry,Advanced,1,1,0,2
+Science & Engineering,Chemistry,Beginner,20,9,0,29
+Science & Engineering,Chemistry,Intermediate,11,22,0,33
+Science & Engineering,Engineering,Advanced,3,5,0,8
+Science & Engineering,Engineering,Beginner,32,13,0,45
+Science & Engineering,Engineering,Intermediate,68,93,0,161
+Science & Engineering,Mathematics,Advanced,1,6,0,7
+Science & Engineering,Mathematics,Beginner,65,41,0,106
+Science & Engineering,Mathematics,Intermediate,92,97,0,189
+Science & Engineering,Physics,Advanced,3,1,0,4
+Science & Engineering,Physics,Beginner,47,18,0,65
+Science & Engineering,Physics,Intermediate,61,72,0,133
+Science & Engineering,Quantum Computing,Advanced,1,1,0,2
+Science & Engineering,Quantum Computing,Beginner,3,2,0,5
+Science & Engineering,Quantum Computing,Intermediate,9,21,0,30
+Singapore,Economic Development,Advanced,9,2,0,11
+Singapore,Economic Development,Beginner,0,2,0,2
+Singapore,Economic Development,Intermediate,53,61,0,114
+Singapore,Education,Advanced,1,0,0,1
+Singapore,Education,Beginner,10,13,0,23
+Singapore,Education,Intermediate,42,64,0,106
+Singapore,Food & Beverage,Advanced,0,1,0,1
+Singapore,Food & Beverage,Beginner,57,17,0,74
+Singapore,Food & Beverage,Intermediate,213,196,0,409
+Singapore,SG Culture & Heritage,Advanced,7,0,0,7
+Singapore,SG Culture & Heritage,Beginner,8,7,0,15
+Singapore,SG Culture & Heritage,Intermediate,196,136,0,332
+Singapore,Urban Planning,Advanced,1,2,0,3
+Singapore,Urban Planning,Beginner,0,1,0,1
+Singapore,Urban Planning,Intermediate,45,31,0,76
+Sustainability,Climate Change,Advanced,0,1,0,1
+Sustainability,Climate Change,Beginner,13,5,0,18
+Sustainability,Climate Change,Intermediate,37,58,0,95
+Sustainability,Environmental Conservation,Advanced,0,0,0,0
+Sustainability,Environmental Conservation,Beginner,32,16,0,48
+Sustainability,Environmental Conservation,Intermediate,60,57,0,117
+Sustainability,Green Economy,Advanced,0,3,0,3
+Sustainability,Green Economy,Beginner,3,6,0,9
+Sustainability,Green Economy,Intermediate,24,57,0,81
+Sustainability,Renewable Energy,Advanced,0,0,0,0
+Sustainability,Renewable Energy,Beginner,1,2,0,3
+Sustainability,Renewable Energy,Intermediate,8,14,0,22
+Sustainability,Sustainable Living,Advanced,0,1,0,1
+Sustainability,Sustainable Living,Beginner,83,38,0,121
+Sustainability,Sustainable Living,Intermediate,76,98,0,174
+Wellness,Fitness,Advanced,0,3,0,3
+Wellness,Fitness,Beginner,177,82,0,259
+Wellness,Fitness,Intermediate,143,255,0,398
+Wellness,Mental Health,Advanced,2,11,0,13
+Wellness,Mental Health,Beginner,544,313,0,857
+Wellness,Mental Health,Intermediate,801,968,0,1769
+Wellness,Mindfulness,Advanced,2,17,0,19
+Wellness,Mindfulness,Beginner,942,591,0,1533
+Wellness,Mindfulness,Intermediate,884,1198,0,2082
+Wellness,Nutrition,Advanced,1,3,0,4
+Wellness,Nutrition,Beginner,349,185,0,534
+Wellness,Nutrition,Intermediate,348,503,0,851
+Wellness,Physical Health,Advanced,0,2,0,2
+Wellness,Physical Health,Beginner,425,211,0,636
+Wellness,Physical Health,Intermediate,421,528,0,949
